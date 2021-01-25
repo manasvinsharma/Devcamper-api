@@ -35,11 +35,5 @@ node seeder -i
 ```
 
 ## Demo
-
-The API is live at [devcamper.io](https://devcamper.io)
-
-Extensive documentation with examples [here](https://documenter.getpostman.com/view/8923145/SVtVVTzd?version=latest)
-
-- Version: 1.0.0
-- License: MIT
-- Author: Brad Traversy
+Extensive documentation with examples [here](https://documenter.getpostman.com/view/11630678/TW6uoU83)
+Note- After opening above link , set environment to devcamper production.
